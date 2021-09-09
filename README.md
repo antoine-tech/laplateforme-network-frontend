@@ -34,10 +34,11 @@ https://cors-anywhere.herokuapp.com/corsdemo
 ```
 
 
-### API is available at <https://github.com/learnWeb3/laplateforme-network-api>
+### API 
 
+[API LNK](https://github.com/learnWeb3/laplateforme-network-api)
 
-### Contributors
-Antoine LE GUILLOU <https://github.com/antoine-tech/>
+### COLABORATORS
 
-
+[Coralie Fortunato](https://github.com/coralie-fortunato)
+[ANTOINE LE GUILLOU](https://github.com/learnWeb3)
